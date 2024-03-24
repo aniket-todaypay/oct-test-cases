@@ -1,18 +1,16 @@
-# OCT Unit Test Cases with Ginkgo
+# Original Credit Transaction (OCT) Unit Test Cases with Ginkgo
 
-This repository contains unit test cases implemented using Ginkgo for testing OCT (Optical Coherence Tomography) software components.
+This repository contains unit test cases implemented using Ginkgo for testing Original Credit Transaction (OCT) processes.
 
 ## Overview
 
-Ginkgo is a BDD-style testing framework for Go (Golang) programming language. It provides expressive and easy-to-read specs to write your tests in a more natural language style.
-
-In this repository, we utilize Ginkgo to test various functionalities and modules of OCT software, ensuring robustness and reliability.
+In this repository, we utilize Ginkgo, a BDD-style testing framework for Go (Golang) programming language, to test various functionalities and procedures involved in Original Credit Transaction (OCT). These tests aim to ensure the accuracy and reliability of the OCT procedures.
 
 ## Getting Started
 
 ### Prerequisites
 
-Before running the unit tests, ensure you have the following prerequisites installed:
+Before running the unit tests, ensure you have the following prerequisites:
 
 - Go (Golang) - [Installation Guide](https://golang.org/doc/install)
 
